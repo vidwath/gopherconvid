@@ -350,7 +350,19 @@ Main components
   text-align: justify;
 }
 .spo{
+  border-bottom:2px solid #bcbcbc;
   color: #3F1237;
+  padding:1.22em;
+  width:35%;
+  margin:auto auto;
+}
+#sponsors_image {
+  padding-top:2em;
+  width:90%;
+  margin:auto auto;
+}
+#space {
+  padding-top:2em;
 }
 /*#wave{
   margin-bottom: 0px;
